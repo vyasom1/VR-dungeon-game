@@ -1,0 +1,79 @@
+# Unity generated (case-insensitive directory spellings)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# Build output
+/[Bb]uilds/
+/[Bb]uild/
+/ExportedObj/
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app/
+
+# IDE/generated projects
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+/.vs/
+/.vscode/
+/.idea/
+/.consulo/
+/.gradle/
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+
+# Local-only captures, recovery scenes and internal documentation
+/Screenshots/
+/sysinfo.txt
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/PROJECT_BRIEF.md
+/GITHUB_PUSH_REPORT.json
+
+# Local secrets and signing credentials
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Unity-generated Android/Addressables data
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/StreamingAssets/aa/
+/Assets/StreamingAssets/aa.meta
+crashlytics-build.properties
+
+# Preserve Assets/**/*.meta for every included asset and folder.
+# Keep Packages/manifest.json and Packages/packages-lock.json.
+# Keep .github/screenshots/ (only the separate root Screenshots/ is excluded).
