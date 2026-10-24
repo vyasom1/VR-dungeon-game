@@ -15,7 +15,7 @@ Step into a dungeon and fight the Mutant and Minotaur using punches and throwabl
 
 Each boss has **50 HP**. A successful hand punch deals **5 damage**, so ten unblocked punches defeat a full-health boss. An orb impact deals **1 damage**, so fifty valid orb hits are needed if using only orbs. Mix punches and throws while dodging attacks.
 
-The prison room scene is adapted from [VRPuzzelGame by Youkaku-1](https://github.com/Youkaku-1/VRPuzzelGame). Boss AI, hand combat, effects and HUD are original work by Yato. Credit to Youkaku-1 applies specifically to the adapted prison room, not those gameplay systems.
+The prison room scene is adapted from [VRPuzzelGame by Youkaku-1]. Boss AI, hand combat, effects and HUD are original work by Yato. Credit to Youkaku-1 applies specifically to the adapted prison room, not those gameplay systems.
 
 ## Features
 
