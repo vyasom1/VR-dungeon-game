@@ -110,9 +110,7 @@ The project retains existing automatic scene progression: Level 2 proceeds to Le
 The source Assets tree is about **2.49 GB** uncompressed. Git LFS keeps large/binary content outside ordinary Git blobs. A Git repository below 500 MB does **not** imply a source checkout/LFS download below 500 MB. Fetching all assets requires sufficient LFS quota and disk space.
 
 ## Credits
-
-- Prison room scene: adapted from [VRPuzzelGame by Youkaku-1](https://github.com/Youkaku-1/VRPuzzelGame)
-- Boss AI, hand combat, effects, HUD: original work by Yato
+- Boss AI, hand combat, effects, HUD: original work by Yato(me)
 - Mixamo — boss animations
 - Unity — XR toolkit, OpenXR
 - Meta — Quest platform
